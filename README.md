@@ -73,4 +73,4 @@ Existe un elevado porcentaje de establecimientos que fueron desfavorables o favo
 Esto supone un tercio de los establecimientos.
 Además llama la atención que bastante más del 50 % siguió igual. Exactamente un 62% y, tan solo un 26 % mejoró
 Llama la atención que los bares y restaurantes tiene la mayor tasa desfavorable (30,20 %). Teniendo en cuenta que son establecimientos de alimentación, es preocupante.
-Como conclusión, en una primera valoración el resultado es elevado
+Como conclusión, en una primera valoración el resultado es elevado.
